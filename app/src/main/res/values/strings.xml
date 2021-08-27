@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">korlinLesson3</string>
+    <string name="image">Выбор фотографий</string>
+    <string name="imageview">imageView</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="String">Выбранные фотографии</string>
+    <string name="back">back</string>
+</resources>
